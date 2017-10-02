@@ -1,7 +1,8 @@
 # NeuBTracker - Autodesk Inventor Design Files
 
 Overview Website: [NeuB*tracker*.org](http://neubtracker.org)
-Paper:
+
+Paper: [DOI 10.1038/NMETH.4459](https://dx.doi.org/10.1038/NMETH.4459)
 
 ## Parts List
 
@@ -250,4 +251,4 @@ author={Symvoulidis, Panagiotis
 
 ## Contact
 
-Corresponding Author: [Gil G Westmeyer](https://www.helmholtz-muenchen.de/ibmi/people/faculty/detail/ma/977/Prof. Dr.-Westmeyer/index.html)
+Corresponding Author: [Gil G Westmeyer](https://www.helmholtz-muenchen.de/ibmi/people/faculty/detail/ma/977/Prof.%20Dr.-Westmeyer/index.html)
